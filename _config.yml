@@ -24,8 +24,8 @@ author:
   avatar           : "roberto.png"
   name             : "Academic Profile"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Ph.D. candidate in Sociology. My work "
+  location         : "Santiago, Chile"
   employer         : "UC Chile"
   uri              : # URL
   email            : "ravelasq@uc.cl" 
