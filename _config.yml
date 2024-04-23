@@ -25,7 +25,7 @@ author:
   name             : "Academic Profile"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Sociology (UC Chile). Sociologist and Historian. I employ computational methods to study the social and cultural structures of art and science production."
-  location         : "Santiago, Chile"
+  location         : #"Santiago, Chile"
   employer         : "UC Chile"
   uri              : # URL
   email            : "ravelasq@uc.cl" 
