@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Academic Profile"
+title                    : "Roberto Velázquez-Quiroz"
 title_separator          : "-"
 name                     : &name "Roberto Velázquez-Quiroz"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "roberto.png"
-  name             : "Roberto Velázquez-Quiroz"
+  name             : "Academic Profile"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
