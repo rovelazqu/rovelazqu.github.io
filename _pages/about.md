@@ -12,7 +12,9 @@ I am a Ph.D. candidate in Sociology at [UC Chile](https://sociologia.uc.cl/). My
 
 
 *Main areas of interest*: Computational Social Science, Social Network Science, Statistics, Sociology of Knowledge, Sociology of Art, Sociology of Science, Social Theory
+
 *Languages*: English, Spanish, Italian, French.
+
 *Programming*: R, Python, SQL.
 
 Doctoral Research
