@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Ph.D. candidate in Sociology at [UC Chile](https://sociologia.uc.cl/). My work focuses on applying computational and statistical methods to study the emerging properties of social fields from a social network perspective. In my doctoral research, I examine the socio-semantic network of the contemporary art market to identify formation mechanisms within the inter-organizational field of art production. Methodologically, I combine Multilevel Exponential Random Graph Models (MERGMs) and Structural Topic Models (STMs) to analyze cross-sectional effects within two-mode networks.
 
+*Main areas of interest*: Computational Social Science, Social Network Science, Statistics, Sociology of Knowledge, Sociology of Art, Sociology of Science, Social Theory
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
