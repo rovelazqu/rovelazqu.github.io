@@ -11,17 +11,17 @@ redirect_from:
 I am a Ph.D. candidate in Sociology at [UC Chile](https://sociologia.uc.cl/). My work focuses on applying computational and statistical methods to study the emerging properties of social fields from a social network perspective. Before starting my doctoral studies, I earned an M.A. in History from [Columbia University](https://history.columbia.edu/) and an M.Sc. in Sociology from the [LSE](https://www.lse.ac.uk/sociology).
 
 
-• Main areas of interest: Computational Social Science, Social Network Science, Statistics, Sociology of Knowledge, Sociology of Art, Sociology of Science, Social Theory.
+<ins>Main areas of interest</ins>: Computational Social Science, Social Network Science, Statistics, Sociology of Knowledge, Sociology of Art, Sociology of Science, Social Theory.
 
-• Languages: English, Spanish, Italian, French.
+Languages: English, Spanish, Italian, French.
 
-• Programming: R, Python, SQL.
+Programming: R, Python, SQL.
 
 Doctoral Research
 ======
 In my doctoral research, I examine the socio-semantic network of the contemporary art market to identify formation mechanisms within the inter-organizational field of art production. Methodologically, I combine Multilevel Exponential Random Graph Models (MERGMs) and Structural Topic Models (STMs) to analyze cross-sectional effects within two-mode networks. 
 
-• Academic Supervisors: Dr. Mauricio Bucca (UC Chile), Dr. Luis Maldonado (UC Chile), Dr. Alejandro Espinosa-Rada (ETH Zürich), Dr. Nikkita Basov (University of Manchester).
+Academic Supervisors: Dr. Mauricio Bucca (UC Chile), Dr. Luis Maldonado (UC Chile), Dr. Alejandro Espinosa-Rada (ETH Zürich), Dr. Nikkita Basov (University of Manchester).
 
 Collaborations
 ======
