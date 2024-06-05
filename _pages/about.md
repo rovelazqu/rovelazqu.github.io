@@ -22,7 +22,9 @@ Doctoral Research
 ======
 In my doctoral research, I examine the socio-semantic network of the contemporary art market to identify formation mechanisms within the inter-organizational field of art production. Methodologically, I combine Multilevel Exponential Random Graph Models (MERGMs) and Structural Topic Models (STMs) to analyze cross-sectional effects within two-mode networks. 
 
-Programming: Academic Supervisors: Dr. Mauricio Bucca (UC Chile), Dr. Luis Maldonado (UC Chile), Dr. Alejandro Espinosa-Rada (ETH Zürich), Dr. Nikkita Basov (University of Manchester).
+<ul>
+    <li>
+Academic Supervisors: Dr. Mauricio Bucca (UC Chile), Dr. Luis Maldonado (UC Chile), Dr. Alejandro Espinosa-Rada (ETH Zürich), Dr. Nikkita Basov (University of Manchester)</li>
 </ul>
 
 <br>
