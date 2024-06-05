@@ -27,7 +27,7 @@ In my doctoral research, I examine the socio-semantic network of the contemporar
     <li>Programming: Academic Supervisors: Dr. Mauricio Bucca (UC Chile), Dr. Luis Maldonado (UC Chile), Dr. Alejandro Espinosa-Rada (ETH Zürich), Dr. Nikkita Basov (University of Manchester) </li>
 </ul>
 
-<be>
+<br>
 
 
 Collaborations
