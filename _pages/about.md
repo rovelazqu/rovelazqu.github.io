@@ -15,7 +15,7 @@ I am a Ph.D. candidate in Sociology at [UC Chile](https://sociologia.uc.cl/). My
     <li>Languages: English, Spanish, Italian, French</li>
     <li>Programming: R, Python, SQL </li>
 </ul>
-
+<br>
 
 Doctoral Research
 ======
