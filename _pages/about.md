@@ -30,6 +30,7 @@ In my doctoral research, I examine the socio-semantic network of the contemporar
 
 **Academic Supervisors**: Dr. Mauricio Bucca (UC Chile), Dr. Luis Maldonado (UC Chile), Dr. Alejandro Espinosa-Rada (ETH Zürich), Dr. Nikkita Basov (University of Manchester).
 
+
 Collaborations
 ======
 
