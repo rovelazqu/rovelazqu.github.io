@@ -24,7 +24,7 @@ In my doctoral research, I examine the socio-semantic network of the contemporar
 
 <ul>
     <li>
-Academic Supervisors: Dr. Mauricio Bucca (UC Chile), Dr. Luis Maldonado (UC Chile), Dr. Alejandro Espinosa-Rada (ETH Zürich), Dr. Nikkita Basov (University of Manchester)</li>
+Academic Supervisors: Dr. Mauricio Bucca ([UC Chile](https://sociologia.uc.cl/academicos-as/planta-academica/mauricio-bucca/)), Dr. Luis Maldonado ([UC Chile](https://sociologia.uc.cl/academicos-as/planta-academica/luis-maldonado-navarro/)), Dr. Alejandro Espinosa-Rada ([ETH Zürich](https://sn.ethz.ch/profile.html?persid=254392)), Dr. Nikita Basov ([University of Manchester](https://research.manchester.ac.uk/en/persons/nikita-basov)).</li>
 </ul>
 
 <br>
