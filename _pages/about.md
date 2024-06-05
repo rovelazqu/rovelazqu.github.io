@@ -11,7 +11,6 @@ redirect_from:
 I am a Ph.D. candidate in Sociology at [UC Chile](https://sociologia.uc.cl/). My work focuses on applying computational and statistical methods to study the emerging properties of social fields from a social network perspective. Before starting my doctoral studies, I earned an M.A. in History from [Columbia University](https://history.columbia.edu/) and an M.Sc. in Sociology from the [LSE](https://www.lse.ac.uk/sociology).
 
 <be> 
-<be> 
 
 
 Main areas of interest: Computational Social Science, Social Network Science, Statistics, Sociology of Knowledge, Sociology of Art, Sociology of Science, Social Theory 
@@ -20,10 +19,7 @@ Languages: English, Spanish, Italian, French
 
 Programming: R, Python, SQL 
 
-
 <be> 
-<be> 
-
 
 
 
