@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=2eRLSVAAAAAJ&hl=en"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
