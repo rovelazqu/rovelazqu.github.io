@@ -30,23 +30,23 @@ Academic Supervisors: Dr. Mauricio Bucca ([UC Chile](https://sociologia.uc.cl/ac
 Collaborations
 ======
 
-[Socio-ecological Sustainability Networks - SNA-SES](https://sna-ssla.netlify.app/) 
+[SNA-SES - Socio-ecological Sustainability Networks](https://sna-ssla.netlify.app/) 
 
-Research Assistant 
+Research Assistant and Co-author
 
 This research project analyzes the generation of scientific knowledge for socio-ecological sustainability (SKSES) in Latin America over the past 30 years. The study focuses on the structuring of scientific networks, encompassing both expert and non-expert actors. Methodologically, the research addresses field configuration using a scientometric approach, which combines two-mode network analysis and structural topic modeling on big data sources. Led by [Dr. Julien Van Hulst](https://scholar.google.com/citations?user=sGOz_P4AAAAJ&hl=en), this project is sponsored by the National Research and Development Agency in Chile (FONDECYT N°1220560, Chile).
 
 Keywords: Sustainability Science, Sociology of Science, Social Network Analysis, Structural Semantic Analysis.
 
+<br>
 
-[Social Network Analysis and Socio-ecological Sustainability Project](https://sna-ssla.netlify.app/) 
+[Inequality of Outcomes and Opportunities]([https://sna-ssla.netlify.app/](https://www.lm2c2.cl/investigadores/)) 
 
-SNA-SES -  FONDECYT N°1220560, Chile. 
+Research Assistant
+
+The project examines the distinct causal effects of exposure to inequality of opportunity and inequality of outcomes on (i) beliefs about the causes of inequality and perceptions of economic fairness and (ii) the propensity to cooperate and redistribute. Methodologically, the research relies on a series of large-scale online experiments that randomly expose individuals to artificial, society-like environments with varying levels of outcome and opportunity inequality. This approach allows the project to circumvent the limitations of previous observational and experimental research by recreating and manipulating exposure to different types of inequality in the lab. Led by [Dr. Mauricio Bucca](https://sociologia.uc.cl/academicos-as/planta-academica/mauricio-bucca/), this project is sponsored by the National Research and Development Agency in Chile (FONDECYT N°11221171, Chile).
 
 
-Research Asistant 
+Keywords: Social Inequality, Stratification, Causal Inference, Field Experiments.
 
-This research project analyzes the generation of scientific knowledge for socio-ecological sustainability (SKSES) in Latin America over the past 30 years. The study focuses on the structuring of scientific networks, encompassing both experts and non-expert actors. Methodologically, the research addresses field configuration using a scientometric approach, which combines two-mode network analysis and structural topic modeling on big data sources.
-
-Keywords: Sustainability Science, Sociology of Science, Social Network Analysis, Structural Semantic Analysis.
-
+<br>
