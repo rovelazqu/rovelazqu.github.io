@@ -30,7 +30,7 @@ Academic Supervisors: Dr. Mauricio Bucca ([UC Chile](https://sociologia.uc.cl/ac
 Collaborations
 ======
 
-[More than Art: Network Dynamics in Reading Clubs](https://jamesstaig.com/)
+[More than Stories: Network Dynamics in Reading Clubs](https://jamesstaig.com/)
 
 **Co-author**
 
