@@ -30,12 +30,13 @@ Academic Supervisors: Dr. Mauricio Bucca ([UC Chile](https://sociologia.uc.cl/ac
 Collaborations
 ======
 
-SNA-SES -  FONDECYT N°1220560, Chile. 
-------
-
 [Social Network Analysis and Socio-ecological Sustainability Project](https://sna-ssla.netlify.app/) 
+SNA-SES -  FONDECYT N°1220560, Chile. 
 
-This research project analyzes the generation of scientific knowledge for socio-ecological sustainability (SKSES) in Latin America over the past 30 years. The study focuses on the structuring of scientific networks, encompassing both experts and non-expert actors. 
+
+Research Asistant 
+
+This research project analyzes the generation of scientific knowledge for socio-ecological sustainability (SKSES) in Latin America over the past 30 years. The study focuses on the structuring of scientific networks, encompassing both experts and non-expert actors. Methodologically, the research addresses field configuration using a scientometric approach, which combines two-mode network analysis and structural topic modeling on big data sources.
 
 Keywords: Sustainability Science, Sociology of Science, Social Network Analysis, Structural Semantic Analysis.
 
