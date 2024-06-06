@@ -63,7 +63,3 @@ Keywords: Social Inequality, Stratification, Causal Inference, Field Experiments
   
 
 
-
-Keywords: Social Inequality, Stratification, Causal Inference, Field Experiments.
-
-<br>
