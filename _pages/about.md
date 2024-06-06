@@ -36,7 +36,7 @@ Collaborations
 
 The research explores the network composition of reading clubs across Santiago de Chile's segregated urban areas. Combining both quantitative and qualitative data collection, the analysis aims to describe the formation mechanisms within the inter-organizational space of cultural group identities. The main hypothesis to be tested is whether aesthetic affinities can bridge socioeconomic differences allowing social cohesion and network density. Co-authored with [Dr. James Staig Limidoro](https://artesliberales.uai.cl/profesor-externo-uai/james-staig/), this research is sponsored by the National Fund for Literature and Reading Promotion (Fondo del Libro N°215532, Chile).
 
-Keywords: Cultural Sociology, Cultural Homophilly, Social Network Analysis, Discourse Analysis.
+**Keywords**: Cultural Sociology, Cultural Homophilly, Social Network Analysis, Discourse Analysis.
 
 <br>
 
@@ -46,7 +46,7 @@ Keywords: Cultural Sociology, Cultural Homophilly, Social Network Analysis, Disc
 
 This research project analyzes the generation of scientific knowledge for socio-ecological sustainability (SKSES) in Latin America over the past 30 years. The study focuses on the structuring of scientific networks, encompassing both expert and non-expert actors. Methodologically, the research addresses field configuration using a scientometric approach, which combines two-mode network analysis and structural topic modeling on big data sources. Led by [Dr. Julien Van Hulst](https://scholar.google.com/citations?user=sGOz_P4AAAAJ&hl=en), this project is sponsored by the National Research and Development Agency in Chile (FONDECYT N°1220560, Chile).
 
-Keywords: Sustainability Science, Sociology of Science, Social Network Analysis, Structural Semantic Analysis.
+**Keywords**: Sustainability Science, Sociology of Science, Social Network Analysis, Structural Semantic Analysis.
 
 <br>
 
@@ -57,7 +57,7 @@ Keywords: Sustainability Science, Sociology of Science, Social Network Analysis,
 The project examines the distinct causal effects of exposure to inequality of opportunity and inequality of outcomes on (i) beliefs about the causes of inequality and perceptions of economic fairness and (ii) the propensity to cooperate and redistribute. Methodologically, the research relies on a series of large-scale online experiments that randomly expose individuals to artificial, society-like environments with varying levels of outcome and opportunity inequality. This approach allows the project to circumvent the limitations of previous observational and experimental research by recreating and manipulating exposure to different types of inequality in the lab. Led by [Dr. Mauricio Bucca](https://sociologia.uc.cl/academicos-as/planta-academica/mauricio-bucca/), this project is sponsored by the National Research and Development Agency in Chile (FONDECYT N°11221171, Chile).
 
 
-Keywords: Social Inequality, Stratification, Causal Inference, Field Experiments.
+**Keywords**: Social Inequality, Stratification, Causal Inference, Field Experiments.
 
 <be>
   
