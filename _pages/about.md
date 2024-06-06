@@ -33,7 +33,7 @@ Collaborations
 SNA-SES -  FONDECYT N°1220560, Chile. 
 ------
 
-[Social Network Analysis and Socio-ecological Sustainability Project] (https://sna-ssla.netlify.app/) 
+[Social Network Analysis and Socio-ecological Sustainability Project](https://sna-ssla.netlify.app/) 
 
 This research project analyzes the generation of scientific knowledge for socio-ecological sustainability (SKSES) in Latin America over the past 30 years. The study focuses on the structuring of scientific networks, encompassing both experts and non-expert actors. 
 
