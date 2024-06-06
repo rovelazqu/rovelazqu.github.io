@@ -31,6 +31,7 @@ Collaborations
 ======
 
 [Social Network Analysis and Socio-ecological Sustainability Project](https://sna-ssla.netlify.app/) 
+
 SNA-SES -  FONDECYT N°1220560, Chile. 
 
 
