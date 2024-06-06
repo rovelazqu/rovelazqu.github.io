@@ -38,7 +38,7 @@ The research explores the network composition of reading clubs across Santiago d
 
 Keywords: Cultural Sociology, Cultural Homophilly, Social Network Analysis, Discourse Analysis.
 
-<be>
+<br>
 
 [SNA-SES - Socio-ecological Sustainability Networks](https://sna-ssla.netlify.app/) 
 
