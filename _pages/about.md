@@ -32,12 +32,9 @@ Collaborations
 
 [Social Network Analysis and Socio-ecological Sustainability Project](https://sna-ssla.netlify.app/) 
 
-SNA-SES -  FONDECYT N°1220560, Chile. 
+Research Assistant 
 
-
-Research Asistant 
-
-This research project analyzes the generation of scientific knowledge for socio-ecological sustainability (SKSES) in Latin America over the past 30 years. The study focuses on the structuring of scientific networks, encompassing both experts and non-expert actors. Methodologically, the research addresses field configuration using a scientometric approach, which combines two-mode network analysis and structural topic modeling on big data sources.
+This research project analyzes the generation of scientific knowledge for socio-ecological sustainability (SKSES) in Latin America over the past 30 years. The study focuses on the structuring of scientific networks, encompassing both expert and non-expert actors. Methodologically, the research addresses field configuration using a scientometric approach, which combines two-mode network analysis and structural topic modeling on big data sources. Led by [Dr. Julien Van Hulst](https://scholar.google.com/citations?user=sGOz_P4AAAAJ&hl=en), this project is sponsored by the National Research and Development Agency in Chile (FONDECYT N°1220560, Chile).
 
 Keywords: Sustainability Science, Sociology of Science, Social Network Analysis, Structural Semantic Analysis.
 
