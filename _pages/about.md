@@ -30,7 +30,7 @@ Academic Supervisors: Dr. Mauricio Bucca ([UC Chile](https://sociologia.uc.cl/ac
 Collaborations
 ======
 
-[Social Network Analysis and Socio-ecological Sustainability Project](https://sna-ssla.netlify.app/) 
+[Socio-ecological Sustainability Networks - SNA-SES](https://sna-ssla.netlify.app/) 
 
 Research Assistant 
 
