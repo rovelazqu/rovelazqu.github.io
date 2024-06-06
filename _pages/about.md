@@ -30,6 +30,16 @@ Academic Supervisors: Dr. Mauricio Bucca ([UC Chile](https://sociologia.uc.cl/ac
 Collaborations
 ======
 
+[More than Art: Network Dynamics in Reading Clubs](https://jamesstaig.com/)
+
+**Co-author**
+
+The research explores the network composition of reading clubs across Santiago de Chile's segregated urban areas. Combining both quantitative and qualitative data collection, the analysis aims to describe the formation mechanisms within the inter-organizational space of cultural group identities. The main hypothesis to be tested is whether aesthetic affinities can bridge socioeconomic differences allowing social cohesion and network density. Co-authored with [Dr. James Staig Limidoro](https://artesliberales.uai.cl/profesor-externo-uai/james-staig/), this research is sponsored by the National Fund for Literature and Reading Promotion (Fondo del Libro N°215532, Chile).
+
+Keywords: Cultural Sociology, Cultural Homophilly, Social Network Analysis, Discourse Analysis.
+
+<be>
+
 [SNA-SES - Socio-ecological Sustainability Networks](https://sna-ssla.netlify.app/) 
 
 **Research Assistant and Co-author**
@@ -45,6 +55,13 @@ Keywords: Sustainability Science, Sociology of Science, Social Network Analysis,
 **Research Assistant**
 
 The project examines the distinct causal effects of exposure to inequality of opportunity and inequality of outcomes on (i) beliefs about the causes of inequality and perceptions of economic fairness and (ii) the propensity to cooperate and redistribute. Methodologically, the research relies on a series of large-scale online experiments that randomly expose individuals to artificial, society-like environments with varying levels of outcome and opportunity inequality. This approach allows the project to circumvent the limitations of previous observational and experimental research by recreating and manipulating exposure to different types of inequality in the lab. Led by [Dr. Mauricio Bucca](https://sociologia.uc.cl/academicos-as/planta-academica/mauricio-bucca/), this project is sponsored by the National Research and Development Agency in Chile (FONDECYT N°11221171, Chile).
+
+
+Keywords: Social Inequality, Stratification, Causal Inference, Field Experiments.
+
+<be>
+  
+
 
 
 Keywords: Social Inequality, Stratification, Causal Inference, Field Experiments.
