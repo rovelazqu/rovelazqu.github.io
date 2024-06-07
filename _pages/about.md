@@ -30,16 +30,6 @@ Academic Supervisors: Dr. Mauricio Bucca ([UC Chile](https://sociologia.uc.cl/ac
 Collaborations
 ======
 
-[More than Stories: Network Dynamics in Reading Clubs](https://jamesstaig.com/)
-
-**Co-author**
-
-The research explores the network composition of reading clubs across Santiago de Chile's segregated urban areas. Combining both quantitative and qualitative data collection, the analysis aims to describe the formation mechanisms within the inter-organizational space of cultural group identities. The main hypothesis to be tested is whether aesthetic affinities can bridge socioeconomic differences allowing social cohesion and network density. Co-authored with [Dr. James Staig Limidoro](https://artesliberales.uai.cl/profesor-externo-uai/james-staig/), this research is sponsored by the National Fund for Literature and Reading Promotion (Fondo del Libro N°215532, Chile).
-
-**Keywords**: Cultural Sociology, Cultural Homophilly, Social Network Analysis, Discourse Analysis.
-
-<br>
-
 [SNA-SES - Socio-ecological Sustainability Networks](https://sna-ssla.netlify.app/) 
 
 **Research Assistant and Co-author**
@@ -59,7 +49,17 @@ The project examines the distinct causal effects of exposure to inequality of op
 
 **Keywords**: Social Inequality, Stratification, Causal Inference, Field Experiments.
 
-<be>
+<br>
+
+[More than Stories: Network Dynamics in Reading Clubs](https://jamesstaig.com/)
+
+**Co-author**
+
+The research explores the network composition of reading clubs across Santiago de Chile's segregated urban areas. Combining both quantitative and qualitative data collection, the analysis aims to describe the formation mechanisms within the inter-organizational space of cultural group identities. The main hypothesis to be tested is whether aesthetic affinities can bridge socioeconomic differences allowing social cohesion and network density. Co-authored with [Dr. James Staig Limidoro](https://artesliberales.uai.cl/profesor-externo-uai/james-staig/), this research is sponsored by the National Fund for Literature and Reading Promotion (Fondo del Libro N°215532, Chile).
+
+**Keywords**: Cultural Sociology, Cultural Homophilly, Social Network Analysis, Discourse Analysis.
+
+<br>
   
 
 
