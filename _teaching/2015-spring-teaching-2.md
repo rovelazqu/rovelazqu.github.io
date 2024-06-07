@@ -1,7 +1,7 @@
 ---
 title: "Sociological Paradigms"
 collection: teaching
-type: "Undergraduate course (Spanish)"
+type: "Undergraduate course (in Spanish)"
 permalink: /teaching/2015-spring-teaching-2
 venue: "UC Chile, Department of Sociology"
 date: "Fall Semester 2022, 2023, 2024"
