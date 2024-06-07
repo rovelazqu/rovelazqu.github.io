@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (Spanish)"
 permalink: /teaching/2015-spring-teaching-2
 venue: "UC Chile, Department of Sociology"
-date: Fall Semester 2022, 2023, 2024
+date: "Fall Semester 2022, 2023, 2024"
 location: "Santiago, Chile"
 ---
 
