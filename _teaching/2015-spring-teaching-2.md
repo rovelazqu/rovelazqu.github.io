@@ -1,15 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Sociological Paradigms"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course (Spanish)"
+permalink: /teaching/2015-spring-teaching-2
+venue: "UC Chile, Department of Sociology"
+date: Fall Semester 2022, 2023, 2024
+location: "Santiago, Chile"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+The course introduces students to Social Network Analysis (SNA), covering key theoretical and methodological aspects of the field. The class provides participants with practical skills in data collection, designing relational research, constructing network databases, and producing descriptive metrics and inferential models in social networks. The course units focus on 1) establishing the historical and theoretical foundations of SNA, 2) studying and applying network methodology components, 3) exploring the main models and research questions in the field, and 4) discussing contemporary challenges in experimental designs within SNA. The course structure includes lectures, written assessments, group presentations, and assignments involving text and code implementation in the R programming language.
 Heading 1
 ======
 
