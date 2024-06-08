@@ -14,4 +14,4 @@ Info
 
 Fall Semester 2017, 2018, 2019, 2020.
 
-Syllabus upon request [ravelasq@uc.cl]
+Syllabus upon request: ravelasq@uc.cl
