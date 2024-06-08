@@ -16,7 +16,7 @@ Info
 
 <ul>
     <li>Fall Semester 2017, 2018, 2019, 2020.</li>
-    <li>Language: Spanish </li>
+    <li>Language: Spanish and English</li>
     <li>Syllabus upon request: ravelasq@uc.cl </li>
 </ul>
 
