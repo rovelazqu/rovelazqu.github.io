@@ -5,9 +5,9 @@ type: "Undergraduate course (in Spanish)"
 permalink: /teaching/2018-spring-teaching-2
 venue: "UC Chile, Department of Sociology"
 date: 
-  - "2024-10-10"
-  - "2024-10-17"
-  - "2024-10-24"
+  - 2024-10-10
+  - 2022-10-17
+  - 2025-10-24
 location: "Santiago, Chile"
 ---
 
