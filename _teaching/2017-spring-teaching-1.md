@@ -14,6 +14,10 @@ This course offers a sociological perspective on art and aesthetics, delving int
 Info
 ===
 
-Fall Semester 2017, 2018, 2019, 2020.
+<ul>
+    <li>Fall Semester 2017, 2018, 2019, 2020.</li>
+    <li>Language: Spanish </li>
+    <li>Syllabus upon request: ravelasq@uc.cl </li>
+</ul>
 
-Syllabus upon request: ravelasq@uc.cl
+
