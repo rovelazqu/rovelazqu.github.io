@@ -1,7 +1,7 @@
 ---
 title: "Social Network Analysis"
 collection: teaching
-type: "Undergraduate course (in Spanish)"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UC Chile, Department of Sociology"
 date: 2042-01-01
@@ -13,7 +13,11 @@ The course introduces students to Social Network Analysis (SNA), covering key th
 Info
 ===
 
-Spring Semester 2023, 2024.
+<ul>
+    <li>Spring Semester 2023, 2024.</li>
+    <li>Language: Spanish and English</li>
+    <li>Syllabus upon request: ravelasq@uc.cl </li>
+</ul>
 
-Syllabus upon request: ravelasq@uc.cl
+
 
