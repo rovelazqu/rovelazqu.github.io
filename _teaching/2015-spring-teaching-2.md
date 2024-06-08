@@ -9,7 +9,9 @@ location: "Santiago, Chile"
 
 The course introduces students to key theoretical models in Sociology, focusing on the works of authors from the 19th and 20th centuries. Particular attention is given to the traditions of historical materialism, interpretative sociology, formalism, critical theory, structuralism, functionalism, symbolic interactionism, and relationalism. The class includes weekly seminars in which students will discuss assigned readings with the teaching assistants (TAs).
 
+
 Info
+===
 
 Fall Semester 2022, 2023, 2024.
 
