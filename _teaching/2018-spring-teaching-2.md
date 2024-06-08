@@ -2,7 +2,7 @@
 title: "Introduction to Social Science Methods"
 collection: teaching
 type: "Undergraduate course (in Spanish)"
-permalink: /teaching/2017-spring-teaching-2
+permalink: /teaching/2018-spring-teaching-2
 venue: "UC Chile, Department of Sociology"
 location: "Santiago, Chile"
 ---
