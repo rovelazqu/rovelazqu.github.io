@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Social Science Methods"
+title: "Introduction to Social Science Methodologies"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-teaching-2
