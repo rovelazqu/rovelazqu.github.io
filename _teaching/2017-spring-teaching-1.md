@@ -2,7 +2,7 @@
 title: "Sociology of Art"
 collection: teaching
 type: "Undergraduate course (in Spanish)"
-permalink: /teaching/017-spring-teaching
+permalink: /teaching/2017-spring-teaching-1
 venue: "UC Chile, Department of Sociology"
 date: 
 location: "Santiago, Chile"
