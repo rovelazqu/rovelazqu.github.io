@@ -1,7 +1,7 @@
 ---
 title: "Sociological Paradigms"
 collection: teaching
-type: "Undergraduate course (in Spanish)"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "UC Chile, Department of Sociology"
 date: 2024-01-01
@@ -14,6 +14,10 @@ The course introduces students to key theoretical models in Sociology, focusing 
 Info
 ===
 
-Fall Semester 2022, 2023, 2024.
+<ul>
+    <li>Fall Semester 2023, 2024.</li>
+    <li>Language: Spanish </li>
+    <li>Syllabus upon request: ravelasq@uc.cl </li>
+</ul>
 
-Syllabus upon request: ravelasq@uc.cl
+
