@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Social Science Methods"
 collection: teaching
-type: "Undergraduate course (in Spanish)"
+type: "Undergraduate course"
 permalink: /teaching/2018-spring-teaching-2
 venue: "UC Chile, Department of Sociology"
 date: 2023-10-10
@@ -14,6 +14,8 @@ This course offers a comprehensive introduction to research design and methodolo
 Info
 ===
 
-Fall Semester 2022, 2023.
-
-Syllabus upon request: ravelasq@uc.cl
+<ul>
+    <li>Fall Semester 2022, 2023.</li>
+    <li>Language: Spanish and English</li>
+    <li>Syllabus upon request: ravelasq@uc.cl </li>
+</ul>
