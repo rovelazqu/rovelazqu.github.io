@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UC Chile, Department of Sociology"
-date: 2024-10-10
+date: 2024-01-01
 location: "Santiago, Chile"
 ---
 
