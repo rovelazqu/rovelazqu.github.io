@@ -15,7 +15,7 @@ Info
 ===
 
 <ul>
-    <li>Fall Semester 2022, 2023.</li>
+    <li>Spring Semester 2022, 2023.</li>
     <li>Language: Spanish and English</li>
     <li>Syllabus upon request: ravelasq@uc.cl </li>
 </ul>
