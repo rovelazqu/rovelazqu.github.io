@@ -5,17 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-• Roberto Velasquez, “Aesthetic Dispositions and Cultural Preferences: Latent Class Analysis in Contemporary Chile.” Presentation paper accepted at the IV ISA Forum of Sociology, Online Forum, (February 2021).
+{% if site.talkmap_link == true %}
 
-• Felipe Sanchez and Roberto Velasquez, “Cultural Consumption in Contemporary Chile. Thoughts on a Latent Class Analysis Approach.” Graduate Conference at the Social Conflict and Cohesion Study Center (COES), (August 2020)(Original presentation in Spanish).
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-• Roberto Velasquez, “Privatization and Cultural Inequality in Post-dictatorship Chile.” Paper presented at the XXXVII International Congress of the Latin American Studies Association (LASA), Boston, US, (May 2019) (Original presentation in Spanish).
+{% endif %}
 
-• Roberto Velasquez, “Family Portraits and Representation Strategies of Gran Santiago’s Working Class, 1950-1959.” Paper presented at the 113th American Sociological Association (ASA), Philadelphia, US, (August 2018).
-• Roberto Velasquez, “The State of Taste. Market Technologies and the Birth of Cultural Inequalities in Chile’s Art Market (1870-1910).” Paper presented at the XIX ISA World Congress of Sociology (ISA), Toronto, Canada, (July 2018).
-• Roberto Velasquez, “Art Markets and State Formation in Nineteenth-Century Chile (1850-1891).” Paper presented at the XXXV International Congress of the Latin American Studies Association (LASA), Lima, Peru, (April 2017)(Original presentation in Spanish).
-• Roberto Velasquez, “My Kin Shall be Known by Photograph: Family, Class, and Gender in Gran Santiago’s Photography Studios (1930-1955).” Paper presented at the VIII Congreso Iberoamericano de Estudios de Genero (CIEG-UBA),Buenos Aires, Argentina, (July 2017).
-• Roberto Velasquez, “Sociology as History. Scope, Scales, and Sources.” Paper presented at the XVII Congreso de la Asociacion de Historiadores Latinoamericanos Europeos (AHILA), Valencia, Spain, (August 2017).
-• Roberto Velasquez, “From Paris to La Araucania. The social life of European art supplies in Chile’s colonial economy.” Paper presented at the IV Coloquio de Investigacion en Arte del Museo Nacional de Bellas Artes (MNBA), Santiago, Chile, (September 2016 )(Original presentation in Spanish).
-• Roberto Velasquez, “A Genealogy of Artistic Conventions. Chains of Collaboration and Co-authorship at Chile’s School of Fine Arts (1870-1880)” Paper presented at the IX Congreso Chileno de Sociologia (Red de Sociologia de Chile), Talca, Chile, (October 2016)(Original presentation in Spanish).
-• Roberto Velasquez, “Modernization and US Artistic Internationalism in the Global Sixties.” Paper presented at the XXXIV International Congress of the Latin American Studies Association (LASA), New York, U.S., (May 2016).
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
