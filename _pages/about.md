@@ -40,7 +40,7 @@ This research project analyzes the generation of scientific knowledge for socio-
 
 
 
-[Inequality of Outcomes and Opportunities]([https://sna-ssla.netlify.app/](https://www.lm2c2.cl/investigadores/) 
+[Inequality of Outcomes and Opportunities](https://www.lm2c2.cl/investigadores/) 
 
 **Research Assistant**
 
