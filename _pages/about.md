@@ -38,7 +38,7 @@ This research project analyzes the generation of scientific knowledge for socio-
 
 **Keywords**: Sustainability Science, Sociology of Science, Social Network Analysis, Structural Semantic Analysis.
 
-<br>
+
 
 [Inequality of Outcomes and Opportunities]([https://sna-ssla.netlify.app/](https://www.lm2c2.cl/investigadores/)) 
 
@@ -49,7 +49,7 @@ The project examines the distinct causal effects of exposure to inequality of op
 
 **Keywords**: Social Inequality, Stratification, Causal Inference, Field Experiments.
 
-<br>
+
 
 [More than Stories: Network Dynamics in Reading Clubs](https://jamesstaig.com/)
 
@@ -59,7 +59,7 @@ The research explores the network composition of reading clubs across Santiago d
 
 **Keywords**: Cultural Sociology, Cultural Homophilly, Social Network Analysis, Discourse Analysis.
 
-<br>
+
   
 
 
