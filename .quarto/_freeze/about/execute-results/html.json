@@ -1,0 +1,15 @@
+{
+  "hash": "5d11ab50264b434dee7b417a59d54211",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About\"\n---\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n<br>\n\nDoctoral Research\n======\nIn my doctoral research, I examine the socio-semantic network of the contemporary art market to identify formation mechanisms within the inter-organizational field of art production. Methodologically, I combine Multilevel Exponential Random Graph Models (MERGMs) and Structural Topic Models (STMs) to analyze cross-sectional effects within two-mode networks. \n\n\nAcademic Supervisors: Dr. Mauricio Bucca ([UC Chile](https://sociologia.uc.cl/academicos-as/planta-academica/mauricio-bucca/)), Dr. Luis Maldonado ([UC Chile](https://sociologia.uc.cl/academicos-as/planta-academica/luis-maldonado-navarro/)), Dr. Alejandro Espinosa-Rada ([ETH Zürich](https://sn.ethz.ch/profile.html?persid=254392)), Dr. Nikita Basov ([University of Manchester](https://research.manchester.ac.uk/en/persons/nikita-basov)).\n\n<br>",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

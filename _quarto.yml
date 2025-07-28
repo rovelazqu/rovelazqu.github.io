@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: ""
+  navbar:
+    background: "#515559"    # Dark blue color
+    foreground: "white"      # Text and icon color
+    left:
+      - href: index.qmd
+        text: About
+      - research.qmd
+      - projects.qmd
+      - teaching.qmd
+      - colabs.qmd
+      - blog.qmd
+      - cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/rovelazqu
+        aria-label: GitHub
+  page-footer: 
+    left: "[Roberto Velázquez-Quiroz](https://rovelazqu.github.io/) &copy; <script>document.write(new Date().getFullYear())</script>" 
+
+format:
+  html:
+    theme:
+      light: yeti
+      dark: darkly
+    css: bootstrap.css
+    toc: true

@@ -1,0 +1,23 @@
+install.packages(c("rvest", "httr", "purrr", "stringr", "xml2"))
+library(rvest)
+library(httr)
+library(purrr)
+library(stringr)
+library(xml2)
+
+
+urls <- c(https://www.artforum.com/issue/1962/june-1962-252991/)
+
+extract_text <- function(url) {
+  tryCatch({
+    page <- read_html(url)
+    text <- page %>%
+      html_elements("body") %>%       # or "p", "div", depending on content
+      html_text2() %>%                # improved text extraction
+      str_squish()                    # remove extra white spaces
+    return(paste(text, collapse = " "))
+  }, error = function(e) {
+    message(paste("Failed to scrape:", url))
+    return(NA)
+  })
+}

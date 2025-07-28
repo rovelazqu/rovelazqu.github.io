@@ -1,0 +1,12 @@
+---
+title: "Blog/News"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+<br>
+
+

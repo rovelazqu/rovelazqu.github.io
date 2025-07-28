@@ -1,0 +1,35 @@
+{
+  "index.qmd": {
+    "index.html": "51fecbe2"
+  },
+  "about.qmd": {
+    "about.html": "ff60af86"
+  },
+  "colabs.qmd": {
+    "colabs.html": "806f9606"
+  },
+  "teaching.qmd": {
+    "teaching.html": "1abe6f5b"
+  },
+  "projects.qmd": {
+    "projects.html": "a94f2bfc"
+  },
+  "publications.qmd": {
+    "publications.html": "54f699e9"
+  },
+  "cv.qmd": {
+    "cv.html": "8c552941"
+  },
+  "research.qmd": {
+    "research.html": "901a9603"
+  },
+  "presentations.qmd": {
+    "presentations.html": "4c8305b9"
+  },
+  "blog.qmd": {
+    "blog.html": "6c3e6b31"
+  },
+  "posts/b1.qmd": {
+    "b1.html": "f99473ae"
+  }
+}

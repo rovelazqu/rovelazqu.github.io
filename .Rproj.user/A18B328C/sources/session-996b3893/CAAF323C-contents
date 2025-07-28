@@ -1,0 +1,32 @@
+---
+title: "Text Analysis and Topic Models: An Introduction for Social Scientists"
+date: 2025-01-10
+categories: [topic models, text analysis, computational social science]
+description: "Introductory workshop in `R` to text analysis and topic models for graduate students in social sciences. January 10, II Chilean Social Network Conference CHISOCNET, UC Chile."
+format:
+  html:
+    toc: false
+---
+
+<br>
+
+## Text Analysis and Mining (TAM)
+
+One of the most dynamic areas in the development of new analytical tools in computational social science is **text analysis and mining (TAM)**. This field leverages computational tools and methods to systematically process and examine textual data.
+
+### In general terms, TAM:
+
+-   From a computational perspective, TAM employs methods and algorithms to process, interpret, and extract meaningful information from textual sources.
+-   It integrates techniques from **natural language processing (NLP)**, **data mining**, and **machine learning** to analyze unstructured data—such as text represented as sequences of words.
+-   It facilitates the identification of **patterns**, **relationships**, and **trends** across large text corpora, including news articles, social media posts, and academic documents.
+-   It serves as an efficient and scalable tool, capable of managing large volumes of data through automated processing.
+
+![Fig: TAM Families.](b1.png){width="70%"}
+
+<br>
+
+
+## Registration
+
+To register for this workshop, please subscribe to the **II Chilean Social Network Conference (CHISOCNET)**, hosted by UC Chile, via the following link:\
+[CHISOCNET Conference, 2025](https://www.chisocnet.org/chisocnet-conference/conference-2025)

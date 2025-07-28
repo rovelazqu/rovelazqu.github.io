@@ -1,0 +1,32 @@
+{
+    "id": "4FDA0DE4",
+    "path": "~/Desktop/rob/blog.qmd",
+    "project_path": "blog.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1753388332570.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1,17",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "103:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1753397626,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1753397626676,
+    "read_only": false,
+    "read_only_alternatives": []
+}
