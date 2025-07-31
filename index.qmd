@@ -35,11 +35,11 @@ about:
 ---
 
 ::: {#hero-heading}
-**Sociologist &** **Data Analyst**
+**Sociologist**, **Lecturer &** **Data Analyst**
 
 Ph.D. in Sociology (UC Chile). I'm an Adjunct Professor in the Department of Sociology [UC Chile](https://sociologia.uc.cl/), where I teach courses on social network analysis, quantitative methods, cultural sociology, and social theory. My research focuses on applying computational and statistical methods to study the emerging properties of social fields from a social network perspective. In my recent projects I have focused on two-mode networks
 
-Before my doctoral studies, I earned an M.A. in History from [Columbia University](https://history.columbia.edu/) and an M.Sc. in Sociology from the [LSE](https://www.lse.ac.uk/sociology).
+Before my doctoral studies, I earned an M.A. from [Columbia University](https://history.columbia.edu/) and a M.Sc. from the [LSE](https://www.lse.ac.uk/sociology).
 
 -   **Main areas of interest**: Computational Social Sciences, Social Network Science, Text Analysis and Mining, Sociology of Knowledge, Sociology of Art, Sociology of Science, Social Theory
 
