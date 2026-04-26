@@ -142,21 +142,21 @@
   {
     "objectID": "projects.html#abstract",
     "href": "projects.html#abstract",
-    "title": "Projects",
+    "title": "Research",
     "section": "Abstract",
     "text": "Abstract\nA Taste for the Few: Elite Networks and the Co-Production of Symbolic and Economic Value in the Contemporary Art Market\nThis project examines how elite networks govern value in the contemporary art market by simultaneously producing symbolic legitimacy and economic stratification. Drawing on large-scale data from primary and secondary art markets between 2015 and 2025, the study reconstructs the relational architecture through which artists, galleries, auction houses, aesthetic meanings, and market settings interact to produce a deeply stratified field. Using the post-pandemic period (2020–2022) as a theoretically motivated stress-test (marked by speculative price acceleration, rapid flipping, and the ultra-contemporary segment’s breakout) the project asks: does network structure explain who consolidates symbolic and economic position after market rupture, and who declines? Methodologically, the project advances an integrated computational pipeline combining Large Language Models (LLMs) for data extraction and structuring, Structural Topic Models (STM) for mapping semantic space, and Exponential Random Graph Models (ERGM) and Multilevel Exponential Random Graph Models (MERGM) for modeling relational structure.\nKeywords: Cultural Elites, Cultural Influence, Art Markets, Multilevel Networks, Socio-Semantic Networks, Computational Social Science"
   },
   {
     "objectID": "projects.html#research-questions",
     "href": "projects.html#research-questions",
-    "title": "Projects",
+    "title": "Research",
     "section": "Research Questions",
     "text": "Research Questions\nThis project is organized around two interrelated questions:\n\nStructural Power and Cultural Influence: What is the relational architecture of the contemporary art market? How are artists, galleries, auction houses, fairs, and aesthetic discourses connected, and what structural positions confer disproportionate influence over valuation?\nNetwork Dynamics: How did the post-pandemic speculative rupture (2020–2022) reshape that structure? Who consolidated position and who was displaced — and does network centrality predict survival after the correction (2023–2025)?"
   },
   {
     "objectID": "projects.html#sponsorship",
     "href": "projects.html#sponsorship",
-    "title": "Projects",
+    "title": "Research",
     "section": "Sponsorship",
     "text": "Sponsorship\nThis research is supported by the National Research and Development Agency of Chile (ANID) through FONDECYT grant N°3260037, and developed in collaboration with the School of Government at Universidad Adolfo Ibáñez and the Millennium Institute for Foundational Research on Data (IMFD)."
   },
