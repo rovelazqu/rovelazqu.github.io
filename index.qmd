@@ -30,7 +30,7 @@ about:
       target: _blank
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/roberto-vel%C3%A1zquez-quiroz-22aa25377
+      href: https://www.linkedin.com/in/roberto-vel%C3%A1zquez-quiroz-22aa25377/
       target: _blank
 ---
 
