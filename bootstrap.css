@@ -12326,3 +12326,15 @@ label,
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+/* Calendar icon before the date on each blog listing entry */
+.listing-date::before {
+  content: "";
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  margin-right: 6px;
+  vertical-align: text-bottom;
+  background-image: url("img/calendar-icon.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
