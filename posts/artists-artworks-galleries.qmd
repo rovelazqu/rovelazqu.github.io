@@ -1,7 +1,7 @@
 ---
 title: "Artists, Artworks, and Galleries: Mapping the Socio-Semantic Network of Contemporary Art"
 date: 2026-06-19
-categories: [seminar, sociology of art, network analysis, text analysis, topic models, computational social science]
+categories: [seminar, economic sociology, cultural sociology, contemporary art market, computational social science]
 description: "Presenting new research on the socio-semantic network of contemporary art production at the Escuela de Gobierno seminar series, Universidad Adolfo Ibáñez."
 image: artists-artworks-galleries.png
 format:

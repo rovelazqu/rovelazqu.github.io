@@ -33,7 +33,7 @@ This project is organized around two interrelated questions:
 
 ## Sponsorship
 
-This research is supported by the National Research and Development Agency of Chile (ANID) through FONDECYT grant N°3260037, and developed in collaboration with the School of Government at Universidad Adolfo Ibáñez and the Millennium Institute for Foundational Research on Data (IMFD).
+This research is supported by the **National Research and Development Agency of Chile (ANID) through FONDECYT grant N°3260037**, and developed in collaboration with the School of Government at Universidad Adolfo Ibáñez and the Millennium Institute for Foundational Research on Data (IMFD).
 
 <br> <br>
 

@@ -13,8 +13,8 @@ website:
       - projects.qmd
       - teaching.qmd
       - course.qmd
-      - colabs.qmd
       - blog.qmd
+      - colabs.qmd
       - cv.qmd
     right:
       - icon: github

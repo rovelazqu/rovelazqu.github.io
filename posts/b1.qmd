@@ -1,7 +1,7 @@
 ---
 title: "Text Analysis and Topic Models: An Introduction for Social Scientists"
 date: 2025-01-10
-categories: [topic models, text analysis, computational social science]
+categories: [topic models, text analysis, computational social science, Summer Course]
 description: "Introductory workshop in `R` to text analysis and topic models for graduate students in social sciences. January 10, II Chilean Social Network Conference CHISOCNET, UC Chile."
 format:
   html:
