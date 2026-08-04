@@ -12,6 +12,7 @@ website:
       - research.qmd
       - projects.qmd
       - teaching.qmd
+      - course.qmd
       - colabs.qmd
       - blog.qmd
       - cv.qmd

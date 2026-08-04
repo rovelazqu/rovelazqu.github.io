@@ -2,64 +2,233 @@
 title: "Teaching"
 ---
 
-I teach undergraduate and graduate courses in sociology, primarily focused on computational methodologies, big data, social network analysis, cultural sociology, and social theory. 
+I teach undergraduate and graduate courses in sociology, primarily focused on computational methodologies, big data, social network analysis, cultural sociology, and social theory. Below, you can access the general descriptions from previous years.
 
 <br>
 
-**Pontificia Universidad Católica de Chile**
+## Pontificia Universidad Católica de Chile
 
-| **SOL160**     |                 **Social Network Analysis**                         |
-|---------------|----------------------------------------------------|
-| **Level**      | Undergraduate course                               |
-| **Language**      | Spanish                              |
-| **Department**     | Department of Sociology, UC Chile                  |
-| **Term**      | Fall Semester 2022, 2023, 2024                                   |
-| **Location**  | Santiago, Chile                                    |
-| **Syllabus**  | Upon request `ravelasq@uc.cl`                                    |
+**Department of Sociology**
 
+<table class="table table-striped table-bordered table-hover align-middle">
+<thead class="table-dark">
+<tr>
+<th scope="col">Course</th>
+<th scope="col">Level</th>
+<th scope="col">Language</th>
+<th scope="col">Department</th>
+<th scope="col">Term</th>
+<th scope="col">Location</th>
+<th scope="col">Syllabus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>SOL160</strong><br><span class="text-muted">Social Network Analysis</span></td>
+<td>Undergraduate course</td>
+<td>Spanish</td>
+<td>Department of Sociology, UC Chile</td>
+<td>Fall Semester 2022, 2023, 2024</td>
+<td>Santiago, Chile</td>
+<td>Upon request <code>ravelasq@uc.cl</code></td>
+</tr>
+</tbody>
+</table>
+
+<br>
 
 The course introduces students to Social Network Analysis (SNA), covering key theoretical and methodological aspects of the field. The class provides participants with practical skills in data collection, designing relational research, constructing network databases, and producing descriptive metrics and inferential models in social networks. The course sections focus on 1) establishing the historical and theoretical foundations of SNA, 2) studying and applying network methodology components, 3) exploring the main models and research questions in the field, and 4) discussing contemporary challenges in experimental designs within SNA. The course structure includes lectures, written assessments, group presentations, and assignments involving text and code implementation in the R programming language.
 
+<br>
+
+<table class="table table-striped table-bordered table-hover align-middle">
+<thead class="table-dark">
+<tr>
+<th scope="col">Course</th>
+<th scope="col">Level</th>
+<th scope="col">Language</th>
+<th scope="col">Department</th>
+<th scope="col">Term</th>
+<th scope="col">Location</th>
+<th scope="col">Syllabus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>SOL505</strong><br><span class="text-muted">Introduction to Social Science Methodologies</span></td>
+<td>Undergraduate course</td>
+<td>Spanish</td>
+<td>Department of Sociology, UC Chile</td>
+<td>Spring Semester 2022, 2023, 2025</td>
+<td>Santiago, Chile</td>
+<td>Upon request <code>ravelasq@uc.cl</code></td>
+</tr>
+</tbody>
+</table>
 
 <br>
 
-
-| **SOL505**     |                 **Introduction to Social Science Methodologies**                         |
-|---------------|----------------------------------------------------|
-| **Level**      | Undergraduate course                               |
-| **Language**      | Spanish                              |
-| **Department**     | Department of Sociology, UC Chile                  |
-| **Term**      | Spring Semester 2022, 2023, 2025                                   |
-| **Location**  | Santiago, Chile                                    |
-| **Syllabus**  | Upon request `ravelasq@uc.cl`                                    |
-
-
-This course offers a comprehensive introduction to research design and methodologies in the social sciences. Students will explore both quantitative and qualitative methods, gaining insight into the most frequently employed techniques in contemporary research. The curriculum covers inductive, deductive, and abductive reasoning as foundational approaches to developing robust research designs. Through a combination of lectures, discussions, and practical assignments, students will learn to collect and interpret data effectively. Weekly assignments are designed to reinforce these skills, providing hands-on experience in applying theoretical concepts to real-world scenarios. By the end of the course, students will be equipped with the tools and methodologies necessary for conducting high-standard academic work.
+This course offers a comprehensive approach to research design and methodologies in the social sciences. Students will explore both quantitative and qualitative methods, gaining insight into the most frequently employed techniques in contemporary research. The curriculum covers inductive, deductive, and abductive reasoning as foundational approaches to developing robust research designs. Through a combination of lectures, discussions, and practical assignments, students will learn to collect and interpret data effectively. Weekly assignments are designed to reinforce these skills, providing hands-on experience in applying theoretical concepts to real-world scenarios. By the end of the course, students will be equipped with the tools and methodologies necessary for conducting high-standard academic work.
 
 <br>
 
-| **SOL166**     |                       **Sociology of Art**                   |
-|---------------|----------------------------------------------------|
-| **Level**      | Undergraduate course                               |
-| **Language**      | Spanish                              |
-| **Department**     | Department of Sociology, UC Chile                  |
-| **Term**      | Fall Semester 2017, 2018, 2019, 2020                                 |
-| **Location**  | Santiago, Chile                                    |
-| **Syllabus**  | Upon request `ravelasq@uc.cl`                                    |
+<table class="table table-striped table-bordered table-hover align-middle">
+<thead class="table-dark">
+<tr>
+<th scope="col">Course</th>
+<th scope="col">Level</th>
+<th scope="col">Language</th>
+<th scope="col">Department</th>
+<th scope="col">Term</th>
+<th scope="col">Location</th>
+<th scope="col">Syllabus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>SOL322</strong><br><span class="text-muted">Cultural Policy and Management</span></td>
+<td>Undergraduate course</td>
+<td>Spanish</td>
+<td>Department of Sociology, UC Chile</td>
+<td>Fall Semester 2026</td>
+<td>Santiago, Chile</td>
+<td>Upon request <code>ravelasq@uc.cl</code></td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+This course offers a social science approach to cultural policy and cultural management, exploring its institutional, social, economic, educational, and community dimensions through an interdisciplinary lens. Combining theoretical frameworks with comparative experiences, the course pays particular attention to Latin American contexts, examining the origins of cultural policy, the normative foundations of cultural rights, the role of education in cultural development, and the institutional architecture of the cultural industries. Students will engage with the productive and economic dimensions of culture—including cultural markets, value chains, and intermediation models—while developing an understanding of the logics that govern cultural circulation, valorization, and mediation. Drawing on real cultural ecosystems, the course also explores heritage, community, and institutional management practices. By its conclusion, students will have acquired practical tools for producing, analyzing, and applying cultural information, and will be equipped to formulate evidence-based projects, diagnostics, and management strategies in the cultural sector.
+
+<br>
+
+<table class="table table-striped table-bordered table-hover align-middle">
+<thead class="table-dark">
+<tr>
+<th scope="col">Course</th>
+<th scope="col">Level</th>
+<th scope="col">Language</th>
+<th scope="col">Department</th>
+<th scope="col">Term</th>
+<th scope="col">Location</th>
+<th scope="col">Syllabus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>SOL166</strong><br><span class="text-muted">Sociology of Art</span></td>
+<td>Undergraduate course</td>
+<td>Spanish</td>
+<td>Department of Sociology, UC Chile</td>
+<td>Fall Semester 2017, 2018, 2019, 2020</td>
+<td>Santiago, Chile</td>
+<td>Upon request <code>ravelasq@uc.cl</code></td>
+</tr>
+</tbody>
+</table>
+
+<br>
 
 This course offers a sociological perspective on art and aesthetics, delving into influential authors from both theoretical and methodological viewpoints. Weekly discussions will involve empirical case studies that illustrate the conceptual and methodological considerations behind studying the art forms. The course sections will concentrate on the following areas: 1) The epistemological foundations for the sociological study of art and aesthetics, 2) key sociological traditions that have theorized about art and aesthetics, 3) an overview of current research methodologies in the sociology of art, and 4) contemporary challenges in studying art as a form of cultural sociology. The course structure includes lectures, written assessments, discussion seminars, and response papers.
 
+<br>
+
+<table class="table table-striped table-bordered table-hover align-middle">
+<thead class="table-dark">
+<tr>
+<th scope="col">Course</th>
+<th scope="col">Level</th>
+<th scope="col">Language</th>
+<th scope="col">Department</th>
+<th scope="col">Term</th>
+<th scope="col">Location</th>
+<th scope="col">Syllabus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>SOL100</strong><br><span class="text-muted">Sociological Paradigms</span></td>
+<td>Undergraduate course</td>
+<td>Spanish</td>
+<td>Department of Sociology, UC Chile</td>
+<td>Fall Semester 2022, 2023</td>
+<td>Santiago, Chile</td>
+<td>Upon request <code>ravelasq@uc.cl</code></td>
+</tr>
+</tbody>
+</table>
 
 <br>
 
-| **SOL100**     |                       **Sociological Paradigms**                   |
-|---------------|----------------------------------------------------|
-| **Level**      | Undergraduate course                               |
-| **Language**      | Spanish                              |
-| **Department**     | Department of Sociology, UC Chile                  |
-| **Term**      | Fall Semester 2022, 2023                                 |
-| **Location**  | Santiago, Chile                                    |
-| **Syllabus**  | Upon request `ravelasq@uc.cl`                                    |
-
 The course introduces students to key theoretical models in Sociology, focusing on the works of authors from the 19th and 20th centuries. Particular attention is given to the traditions of historical materialism, interpretative sociology, formalism, critical theory, and structuralism. The class includes weekly seminars in which students will discuss assigned readings with the teaching assistants (TAs).
 
+<br>
+
+**College UC**
+
+<table class="table table-striped table-bordered table-hover align-middle">
+<thead class="table-dark">
+<tr>
+<th scope="col">Course</th>
+<th scope="col">Level</th>
+<th scope="col">Language</th>
+<th scope="col">Department</th>
+<th scope="col">Term</th>
+<th scope="col">Location</th>
+<th scope="col">Syllabus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>CLG0020</strong><br><span class="text-muted">Explorations in Social Science</span></td>
+<td>Undergraduate course</td>
+<td>Spanish</td>
+<td>College in Social Sciences, UC Chile</td>
+<td>Fall Semester 2026</td>
+<td>Santiago, Chile</td>
+<td>Upon request <code>ravelasq@uc.cl</code></td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+This course equips students with the knowledge and analytical tools needed to examine and compare the principal theoretical and methodological approaches through which the social sciences investigate socially relevant problems. At its core, the course culminates in an empirical research design project, through which students will put their acquired knowledge into practice.
+
+<br>
+
+## Universidad Adolfo Ibáñez
+
+**School of Goverment**
+
+<table class="table table-striped table-bordered table-hover align-middle">
+<thead class="table-dark">
+<tr>
+<th scope="col">Course</th>
+<th scope="col">Level</th>
+<th scope="col">Language</th>
+<th scope="col">Department</th>
+<th scope="col">Term</th>
+<th scope="col">Location</th>
+<th scope="col">Syllabus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>GOB542</strong><br><span class="text-muted">Interdisciplinary Research Lab II</span></td>
+<td>Doctoral Core Course</td>
+<td>Spanish</td>
+<td>School of Government, Universidad Adolfo Ibañez</td>
+<td>Fall Semester 2026</td>
+<td>Santiago, Chile</td>
+<td>Upon request <code>roberto.velas@edu.uai.cl</code></td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+This course provides a comprehensive immersion into contemporary social research by integrating traditional methodologies with advanced computational tools. Students begin by mastering the critical analysis of quantitative and qualitative academic literature and national datasets, establishing a rigorous theoretical foundation. The curriculum then pivots to technical application using R software, where learners implement supervised and unsupervised machine learning algorithms within individual data science projects. Finally, the course explores a diverse methodological repertoire—ranging from ethnography and oral history to automated text analysis and social network analysis—culminating in specialized workshops where students design a robust, professional-grade methodological proposal for their own research.
+
+<br>

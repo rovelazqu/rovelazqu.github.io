@@ -1,15 +1,15 @@
 ---
-title: "Research"
+title: "Publications"
 toc: true
 toc-depth: 3  # optional: controls how deep the TOC goes (e.g., h1–h3)
-toc-title: "Research"
+toc-title: "Publications"
 ---
 
 My work has been presented in a range of academic formats — including journal articles, conference presentations, policy papers, and books. Below is a selection of my most recent work.
 
 <br>
 
-## Publications
+## Articles
 
 **2025**
 
@@ -27,7 +27,7 @@ Our analysis reveals four cross-cutting dimensions structuring the field: 1) the
 
 **2022**
 
-Mardones, Antonia; **Velázquez-Quiroz, Roberto**; Mardones, Pablo; Espinosa, Maria Paz. Una Escuela Llamada América: Documentary film and photography as ethnographic tools for reflexive social research. *Berkeley Journal of Sociology,* Volume 63, 2022, pp.32-56.
+Mardones, Antonia; **Velázquez-Quiroz, Roberto**; Mardones, Pablo; Espinosa, Maria Paz. Una Escuela Llamada América: Documentary film and photography as ethnographic tools for reflexive social research. *Berkeley Journal of Sociology,* Volume 63, 2022, pp.32-56. [J Store](https://www.jstor.org/stable/48820223)
 
 **2019**
 
