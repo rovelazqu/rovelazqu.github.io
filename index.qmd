@@ -34,22 +34,44 @@ about:
       target: _blank
 ---
 
+```{=html}
+<style>
+@media (min-width: 992px) {
+  div.quarto-about-trestles .about-entity {
+    flex: 0 0 26%;
+    padding-right: 1.5em;
+  }
+}
+</style>
+```
+
 ::: {#hero-heading}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-7}
 **Sociologist & Data Analyst**
 
-*Ph.D. in Sociology (UC-Chile) | M.Sc. (LSE) | M.A. (Columbia University)*
+*Ph.D. in Sociology (UC-Chile)*<br>
+*M.Sc. (LSE) | M.A. (Columbia University)*
 
 I am a Postdoctoral Researcher in the School of Government at [UAI Chile](https://www.uai.cl/gobierno), where I study the structural properties of elite networks in the use of cultural influence as a global-scale resource. I am also a Lecturer in the Department of Sociology at [UC Chile](https://sociologia.uc.cl/), where I teach courses in social network analysis, text analysis and mining, quantitative methods, research design, cultural sociology, and social theory.
 
 My current research examines how elite networks govern value in the contemporary art market — that is, the relational mechanisms through which artists, galleries, auction houses, and aesthetic discourses interact to co-produce symbolic and economic stratification. Drawing on large-scale data from primary and secondary markets I reconstruct the relational architecture of the field using an integrated computational pipeline that combines Large Language Models (LLMs) for data structuring, Structural Topic Models (STM) for mapping aesthetic discourse, and Exponential Random Graph Models (ERGM/MERGM) for modeling network structure.
 
-<br>
-
-###
-
--   **Main areas of interest**: Computational Social Sciences, Social Network Analysis, Economic Sociology, Cultural Sociology, Sociology of Elites, Social & Cultural Theory
-
 -   **Languages**: English, Spanish, Italian, French
 
 -   **Programming**: `R` `Python` `SQL`
+:::
+
+::: {.g-col-12 .g-col-md-5}
+**Main Areas of Interest**
+
+```{=html}
+<iframe src="interests-network.html" title="Main Areas of Interest" style="border:none; background: transparent; width:100%; display:block; height:70vh; min-height:440px; max-height:600px;"></iframe>
+```
+:::
+
+:::
+
 :::
