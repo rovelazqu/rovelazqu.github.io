@@ -58,7 +58,7 @@ If you are currently enrolled, browse this section to find updated lecture notes
 <td>Spanish</td>
 <td>Department of Sociology, UC Chile</td>
 <td>Santiago, Chile</td>
-<td>Under construction</td>
+<td><a href="https://sso.uc.cl/cas/login?service=https%3A%2F%2Fcursos.canvas.uc.cl%2Flogin%2Fcas" target="_blank">Canvas UC-Chile</a></td>
 </tr>
 </tbody>
 </table>
