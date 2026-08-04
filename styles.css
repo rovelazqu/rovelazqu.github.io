@@ -3,8 +3,3 @@
   font-family: 'Andale Mono', sans-serif;
   letter-spacing: -0.2px;
 }
-
-/* Calendar icon before the date on each blog listing entry */
-.listing-date::before {
-  content: "📅 ";
-}
