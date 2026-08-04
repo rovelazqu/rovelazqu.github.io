@@ -12326,3 +12326,7 @@ label,
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+/* Calendar icon before the date on each blog listing entry */
+.listing-date::before {
+  content: "\1F4C5 ";
+}
