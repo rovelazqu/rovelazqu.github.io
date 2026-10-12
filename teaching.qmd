@@ -296,3 +296,34 @@ This course provides a comprehensive immersion into contemporary social research
 This course examines the impact of artificial intelligence (AI) on democratic processes through two complementary modules. The Democracy module, taught by Roberto Velázquez, provides a solid theoretical foundation by examining democratic models, power and elites, the public sphere, authoritarianism, sovereignty, and deliberation through primarily lecture-based sessions. The AI module, taught by Naim Bro, adopts a more dynamic and experimental approach to recent developments, including backlash and public opinion, populism and the AI oligarchy, AI governance and regulation, the algorithmic state and surveillance, geopolitics, and augmented democracy. This module draws on a diverse range of materials—including non-academic readings, empirical case studies, and in-class activities—to explore these contemporary issues. The modules are deliberately interwoven so that each AI-related topic builds upon the democratic concepts introduced during the previous week. The course concludes with a jointly taught workshop in which students integrate and apply the major theoretical and empirical debates covered throughout the semester.
 
 <br>
+
+<table class="table table-striped table-bordered table-hover align-middle">
+<thead class="table-dark">
+<tr>
+<th scope="col">Course</th>
+<th scope="col">Level</th>
+<th scope="col">Language</th>
+<th scope="col">Department</th>
+<th scope="col">Term</th>
+<th scope="col">Location</th>
+<th scope="col">Syllabus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>GOB531</strong><br><span class="text-muted">Computational Social Sciences</span></td>
+<td>Doctoral Intensive Seminar</td>
+<td>Spanish</td>
+<td>School of Government, Universidad Adolfo Ibañez</td>
+<td>Spring Semester 2026</td>
+<td>Santiago, Chile</td>
+<td>Upon request <code>roberto.velas@edu.uai.cl</code></td>
+</tr>
+</tbody>
+</table>
+
+<br>
+
+This course offers an introduction to computational social science (CSS) as a methodological approach to social research. Rather than a catalogue of techniques, it approaches CSS as a field that reformulates classic social science questions—about measurement, evidence, and inference—in light of the availability of massive digital data and new computational capabilities. The first part of the course addresses the disciplinary and epistemological framework of the field, research design, and the different types of data CSS works with, along with their ethical implications. The second part delves into two families of methods: the structural analysis of social networks (QAP, MRQAP, and ERGM), read through relational sociology, and the use of large language models (LLMs) in social research, both as measurement instruments and as synthetic agents. Each session combines a content module with a hands-on implementation module in R. By the end of the course, students are expected to critically evaluate research that uses computational methods and to design their own empirical application linked to their doctoral research projects.
+
+<br>
