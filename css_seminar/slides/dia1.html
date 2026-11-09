@@ -1482,8 +1482,8 @@ grado = [2, 2, 2]             <span class="c"># t1: tres sitios idénticos</span
     history.replaceState(null, '', '#' + (i + 1));
   }
   document.addEventListener('keydown', e => {
-    if (['ArrowRight', 'PageDown', ' ', 'Enter'].includes(e.key)) { e.preventDefault(); show(i + 1); }
-    if (['ArrowLeft', 'PageUp', 'Backspace'].includes(e.key)) { e.preventDefault(); show(i - 1); }
+    if (['ArrowRight', 'ArrowDown', 'PageDown', ' ', 'Enter', 'MediaTrackNext'].includes(e.key) || e.keyCode === 34) { e.preventDefault(); show(i + 1); }
+    if (['ArrowLeft', 'ArrowUp', 'PageUp', 'Backspace', 'MediaTrackPrevious'].includes(e.key) || e.keyCode === 33) { e.preventDefault(); show(i - 1); }
     if (e.key === 'Home') show(0);
     if (e.key === 'End') show(slides.length - 1);
     if (e.key === 'f') document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen();
